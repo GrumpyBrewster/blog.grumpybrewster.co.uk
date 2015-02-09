@@ -1,5 +1,5 @@
-= Blog Title
+= Brewday January 17, 2015 - Englebert Womblehatch A
 
-:hp-tags: tag1,tag2,tag3
+:hp-tags: brewday
 
-Some stuff here
+video::117170448[vimeo]
