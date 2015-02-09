@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "username": "GrumpyBrewster",
+    "repositoryName": "blog.grumpybrewster.co.uk",
+    "branch": "gh-pages"
+  },
+  "theme": {
+    "name": "Casper"
+  }
+}
