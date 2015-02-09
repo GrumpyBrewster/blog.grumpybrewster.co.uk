@@ -1,3 +1,5 @@
-# Testing
+= Blog Title
 
-This is a test
+:hp-tags: tag1,tag2,tag3
+
+Some stuff here
