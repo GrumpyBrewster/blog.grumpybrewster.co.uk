@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "GrumpyBrewster",
-    "repositoryName": "blog.grumpybrewster.co.uk",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"GrumpyBrewster","repositoryName":"blog.grumpybrewster.co.uk","branch":"gh-pages","cname":"blog.grumpybrewster.co.uk"},"site":{"title":"Grumpybrewster","url":"http://blog.grumpybrewster.co.uk"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://GrumpyBrewster.github.io/blog.grumpybrewster.co.uk/themes/Casper"}}
