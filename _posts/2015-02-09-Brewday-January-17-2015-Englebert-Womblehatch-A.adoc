@@ -2,7 +2,9 @@
 
 :hp-tags: brewday
 
+A short video of the first brew day of the year - brewing Englebert Womblehatch, based on Cumblerland Ale.
+
 video::117170448[vimeo]
 
-:image: http://cdn.meme.am/instances/500x/58630729.jpg
+
 
