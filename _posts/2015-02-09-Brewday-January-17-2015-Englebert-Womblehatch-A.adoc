@@ -4,5 +4,5 @@
 
 video::117170448[vimeo]
 
-image::http://cdn.meme.am/instances/500x/58630729.jpg
+:image: http://cdn.meme.am/instances/500x/58630729.jpg
 
